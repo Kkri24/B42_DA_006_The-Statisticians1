@@ -84,7 +84,7 @@ Columns:  10
 
 
 <pre>
-Statisticans
+ 
 Statisticans 
  ├─ images/
  │   ├─ img1.jpg
@@ -99,6 +99,7 @@ Statisticans
  ├─ cleaned Data.ipynb
  ├─ README.md
  ├─ requirements.txt
+ 
 </pre>
 
 
@@ -131,7 +132,7 @@ Streamlit UI: Modularized design for separate analysis sections.
 - PIL
 - Matplotlib
 - Streamlit
-= Base64
+- Base64
 - alter
 
 ##
