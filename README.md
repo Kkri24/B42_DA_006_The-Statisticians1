@@ -140,10 +140,10 @@ Streamlit UI: Modularized design for separate analysis sections.
 ### ScreenShots 📷
 
 <h4>» Dashboard </h4>
-<img src="https://github.com/Agarwal-ish/Number-Chunchers/blob/main/images/img9.jpg" width="700" height="300" alt="Dashboard">
+<img src="https://github.com/Kkri24/B42_DA_006_The-Statisticians1/blob/main/customer_info.jpg" width="700" height="300" alt="Dashboard">
 
 <h4>»Filter Data by Crime Description </h4>
-<img src="https://github.com/Agarwal-ish/Number-Chunchers/blob/main/images/img6.jpg" width="700" height="300" alt="Filter Data">
+<img src="https://github.com/Kkri24/B42_DA_006_The-Statisticians1/blob/main/display_info.jpg" width="700" height="300" alt="Filter Data">
 
 <h4>» PieChart of Parent Incident Type Distribution </h4> 
 <img src="https://github.com/Agarwal-ish/Number-Chunchers/blob/main/images/img2.jpg" width="700" height="300" alt="Filter Data">
@@ -178,7 +178,7 @@ Streamlit UI: Modularized design for separate analysis sections.
       <h4>✦ <a href="https://github.com/Kaushal-Kumar-007" target="_blank">Kawshal Kumar</a></h4>
     </div>
     <div>
-      <img src="https://github.com/Agarwal-ish/Number-Chunchers/blob/main/images/logo2.jpg" width="250" height="250" alt="Filter Data">
+      <img src="https://github.com/Kkri24/B42_DA_006_The-Statisticians1/blob/main/logo%20(1).png" width="250" height="250" alt="Filter Data">
     </div>
   </div>
 </div>
