@@ -1,5 +1,5 @@
 <div align="center">
-<h2> Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="33"> there, we are <span style="color: #447ED5">Team Number Statisticians</span></h2>
+<h2> Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="33"> There, we are <span style="color: #447ED5">team Statisticians</span></h2>
  
 </div>
 
