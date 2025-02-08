@@ -19,7 +19,7 @@
 
 <img src="https://github.com/Kkri24/B42_DA_006_The-Statisticians1/blob/main/logo.png" width="200" height="180" alt="Dashboard">
 
-### 🌐 Streamlit Link : [Click to Open Streamlit App](https://number-chunchers-lmweeha8cqinu3pj6tnxym.streamlit.app/)
+### 🌐 Streamlit Link : [Click to Open Streamlit App](https://github.com/Kkri24/B42_DA_006_The-Statisticians1.git)
 
  </div>
 
