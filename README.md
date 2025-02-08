@@ -65,15 +65,15 @@ Columns:  10
 
 
 <h3>The project aims to:</h3>
-1.Gain insights into customer behavior and preferences.
-2.Analyze restaurant performance to identify top performers and those in need of improvement.
-3.Determine key factors influencing revenue.
-4.Identify customer-preferred ordering days.
-5.Recognize order trends and patterns.
-6.Understand why only a few restaurants excel while others struggle.
-7.Examine the relationship between revenue and customer satisfaction.
-8.Identify and segment loyal customers.
-9.Continuously monitor improvements and reassess strategies for better performance.
+    <p><strong>1.</strong> Gain insights into customer behavior and preferences.</p>
+    <p><strong>2.</strong> Analyze restaurant performance to identify top performers and those in need of improvement.</p>
+    <p><strong>3.</strong> Determine key factors influencing revenue.</p>
+    <p><strong>4.</strong> Identify customer-preferred ordering days.</p>
+    <p><strong>5.</strong> Recognize order trends and patterns.</p>
+    <p><strong>6.</strong> Understand why only a few restaurants excel while others struggle.</p>
+    <p><strong>7.</strong> Examine the relationship between revenue and customer satisfaction.</p>
+    <p><strong>8.</strong> Identify and segment loyal customers.</p>
+    <p><strong>9.</strong> Continuously monitor improvements and reassess strategies for better performance.</p>
 
 
 
@@ -85,20 +85,18 @@ Columns:  10
 
 <pre>
 Statisticans
- ├─ _pycache/
- │   ├─ PreProcessor.cpython-313.pyc
+Statisticans 
  ├─ images/
  │   ├─ img1.jpg
  │   ├─ img2.jpg
  │   ├─ img3.jpg
  │   ├─ logo2.jpg
  ├─ .gitattributes
- ├─ crime_cleaned.csv
- ├─ crime.csv
+ ├─ cleaned_online_food2.csv
+ ├─ online_food.csv
  ├─ logo.jpg
- ├─ main.py
- ├─ PreProcessor.py
- ├─ Project(1).ipynb
+ ├─ app_updated.py
+ ├─ cleaned Data.ipynb
  ├─ README.md
  ├─ requirements.txt
 </pre>
@@ -130,10 +128,11 @@ Streamlit UI: Modularized design for separate analysis sections.
 ![cover](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
 - Pandas
 - Seaborn
-- Plotly.express
+- PIL
 - Matplotlib
 - Streamlit
-
+= Base64
+- alter
 
 ##
 
@@ -195,4 +194,4 @@ Streamlit UI: Modularized design for separate analysis sections.
   
  ### Feedback / Contributing 🤝
  > Contributions are always welcome! Just raise an issue, and we will discuss it.
- > If you have any feedback, please reach out to us <a href="mailto: uashutosh309@gmail.com">Team Number Statisticans</a>
+ > If you have any feedback, please reach out to us <a href="chandrayamuna99@gmail.com">Team Number Statisticans</a>
