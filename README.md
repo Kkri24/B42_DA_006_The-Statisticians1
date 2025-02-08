@@ -159,7 +159,7 @@ Streamlit UI: Modularized design for separate analysis sections.
 
 <h4>1. Clone the project </h4>
 
-```git clone https://github.com/Agarwal-ish/Number-Chunchers.git
+```git clone https://github.com/Kkri24/B42_DA_006_The-Statisticians1.git
 
 ```
 <h4>2. Go to the project directory </h4> 
@@ -172,9 +172,10 @@ Streamlit UI: Modularized design for separate analysis sections.
   <h3 align="left">👷 Contributors:</h3>
   <div style="display: flex; justify-content: center; align-items: flex-start; gap: 20px; margin-top: 20px;">
     <div style="text-align: left;">
-      <h4>✦ <a href="https://github.com/Agarwal-ish" target="_blank">Ishita Agarwal</a></h4>
+      <h4>✦ <a href="https://github.com/bhakti257" target="_blank">Bhakti Rajai</a></h4>
       <h4>✦ <a href="https://github.com/Kkri24" target="_blank">Krishna Tiwari</a></h4>
-      <h4>✦ <a href="https://github.com/Ashutosh1020" target="_blank">Ashutosh Upadhyay</a></h4>
+      <h4>✦ <a href="https://github.com/chandrayamuna99" target="_blank">Chandra Yamuna</a></h4>
+      <h4>✦ <a href="https://github.com/Kaushal-Kumar-007" target="_blank">Kawshal Kumar</a></h4>
     </div>
     <div>
       <img src="https://github.com/Agarwal-ish/Number-Chunchers/blob/main/images/logo2.jpg" width="250" height="250" alt="Filter Data">
