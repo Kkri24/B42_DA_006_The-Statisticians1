@@ -33,7 +33,7 @@ def add_footer():
 # Sidebar Logo
 def display_logo():
     img = Image.open("logo.png")
-    st.sidebar.image(img, use_column_width=False, width=150)
+    st.sidebar.image(img, use_container_width=False, width=150)
 
 # Title and Navigation Menu
 def display_title_and_dropdowns():
