@@ -34,7 +34,7 @@ def add_footer():
 def display_logo():
     try:
         img = Image.open("logo.png")
-        st.sidebar.image(img, use_column_width=False, width=300)
+        st.sidebar.image(img, use_container_width=False, width=300)
     except FileNotFoundError:
         st.sidebar.warning("Logo image not found.")
 
