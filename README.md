@@ -159,12 +159,15 @@ Streamlit UI: Modularized design for separate analysis sections.
 <h4>1. Clone the project </h4>
 
 
-```git clone https://github.com/Kkri24/B42_DA_006_The-Statisticians1.git
+```
+git clone https://github.com/Kkri24/B42_DA_006_The-Statisticians1.git
 
 ```
 <h4>2. Go to the project directory </h4> 
 
-```cd Statisticans
+```
+cd Statisticans
+
 ```
 
 
