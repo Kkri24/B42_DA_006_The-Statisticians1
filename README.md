@@ -19,8 +19,7 @@
 
 <img src="https://github.com/Kkri24/B42_DA_006_The-Statisticians1/blob/main/logo.png" width="200" height="180" alt="Dashboard">
 
-### 🌐 Streamlit Link : [Click to Open Streamlit App](https://github.com/Kkri24/B42_DA_006_The-Statisticians1.git)
-
+### 🌐 Streamlit Link : [Click to Open Streamlit App](https://b42da006the-statisticians1-srjpud4ebsdwkwrxfhcmr2.streamlit.app/)
  </div>
 
 
@@ -175,7 +174,7 @@ Streamlit UI: Modularized design for separate analysis sections.
       <h4>✦ <a href="https://github.com/bhakti257" target="_blank">Bhakti Rajai</a></h4>
       <h4>✦ <a href="https://github.com/Kkri24" target="_blank">Krishna Tiwari</a></h4>
       <h4>✦ <a href="https://github.com/chandrayamuna99" target="_blank">Chandra Yamuna</a></h4>
-      <h4>✦ <a href="https://github.com/Kaushal-Kumar-007" target="_blank">Kawshal Kumar</a></h4>
+      <h4>✦ <a href="https://github.com/Kaushal-Kumar-007" target="_blank">Kaushal Kumar</a></h4>
     </div>
     <div>
       <img src="https://github.com/Kkri24/B42_DA_006_The-Statisticians1/blob/main/logo%20(1).png" width="250" height="250" alt="Filter Data">
