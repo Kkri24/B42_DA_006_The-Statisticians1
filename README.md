@@ -103,11 +103,6 @@ Statisticans
 
 
   
-   Video Walkthrough of the project :
-  [▶️ Click here To watch the video](https://youtu.be/hyediFNDLa4?si=6mNtCJ02oTELm5jW)
-
-  Video Walkthrough of the codebase : 
-  [▶️ Click here To watch the video](https://youtu.be/ZvVeE8slQzQ)
 
   <h3>Features --></h3>
    📊 Combo Graph: Displays the relationship between cuisine and revenue.<br>
@@ -142,14 +137,7 @@ Streamlit UI: Modularized design for separate analysis sections.
 <img src="https://github.com/Kkri24/B42_DA_006_The-Statisticians1/blob/main/display_info.jpg" width="700" height="300" alt="Dashboard">
 
 <h4>»Top Customer Orders </h4>
-<img src="https://github.com/Kkri24/B42_DA_006_The-Statisticians1/blob/main/customer_info.jpg" width="700" height="300" alt="Filter Data">
-
-<h4>» PieChart of Parent Incident Type Distribution </h4> 
-<img src="" width="700" height="300" alt="Filter Data">
-
-<h4>» Some Code Snippet </h4> 
-<img src="" width="700" height="300" alt="Filter Data">
-<img src="" width="700" height="300" alt="Filter Data">
+<img src="https://github.com/Kkri24/B42_DA_006_The-Statisticians1/blob/main/customer_info.jpg" width="700" height="300" alt="Filter Data"
 
  
  ##
